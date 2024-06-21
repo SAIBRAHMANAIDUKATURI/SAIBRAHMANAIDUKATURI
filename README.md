@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Sai Brahma Naidu Katuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAIBRAHMANAIDUKATURI)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **SAIBRAHMANAIDUKATURI/SAIBRAHMANAIDUKATURI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
